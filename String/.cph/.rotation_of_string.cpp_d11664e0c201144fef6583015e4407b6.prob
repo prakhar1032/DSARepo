@@ -1,0 +1,1 @@
+{"name":"Local: rotation_of_string","url":"d:\\VScode\\DSA\\String\\rotation_of_string.cpp","tests":[{"id":1622178875590,"input":"abcd\nadcb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VScode\\DSA\\String\\rotation_of_string.cpp","group":"local","local":true}

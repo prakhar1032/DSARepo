@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"d:\\DSA\\String\\string.cpp","tests":[{"id":1624594708168,"input":"hello world","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\String\\string.cpp","group":"local","local":true}

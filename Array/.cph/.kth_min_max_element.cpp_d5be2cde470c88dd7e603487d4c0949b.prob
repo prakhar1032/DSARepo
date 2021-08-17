@@ -1,0 +1,1 @@
+{"name":"Local: kth_min_max_element","url":"d:\\DSA\\Array\\kth_min_max_element.cpp","tests":[{"id":1623816152020,"input":"6\n7 10 4 3 20 15\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Array\\kth_min_max_element.cpp","group":"local","local":true}

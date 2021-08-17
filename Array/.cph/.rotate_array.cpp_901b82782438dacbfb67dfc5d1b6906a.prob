@@ -1,0 +1,1 @@
+{"name":"Local: rotate_array","url":"d:\\VScode\\DSA\\Array\\rotate_array.cpp","tests":[{"id":1622347100265,"input":"5\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VScode\\DSA\\Array\\rotate_array.cpp","group":"local","local":true}

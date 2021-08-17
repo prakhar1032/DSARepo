@@ -1,0 +1,1 @@
+{"name":"Local: reverse_array","url":"d:\\VScode\\DSA\\Array\\reverse_array.cpp","tests":[{"id":1622004708276,"input":"10\n1 2 3 4 5 6 7 8 9 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VScode\\DSA\\Array\\reverse_array.cpp","group":"local","local":true}
