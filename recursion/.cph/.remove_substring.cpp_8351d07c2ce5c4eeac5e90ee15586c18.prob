@@ -1,0 +1,1 @@
+{"name":"Local: remove_substring","url":"d:\\DSA\\recursion\\remove_substring.cpp","tests":[{"id":1690950689457,"input":"daabcbaabcbc\nabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\recursion\\remove_substring.cpp","group":"local","local":true}
